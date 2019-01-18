@@ -1,0 +1,15 @@
+{
+  "@@last_modified": "2019-01-18T12:24:09.050718",
+  "title": "Bet Master",
+  "@title": {
+    "description": "App Title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "search": "Search",
+  "@search": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  }
+}
